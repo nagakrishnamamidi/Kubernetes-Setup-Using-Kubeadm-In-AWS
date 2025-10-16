@@ -1,9 +1,4 @@
-# Day 27/40 - Setup a Multi Node Kubernetes Cluster Using Kubeadm
-
-## Check out the video below for Day27 👇
-
-[![Day 27/40 - Setup a Multi Node Kubernetes Cluster Using Kubeadm ](https://img.youtube.com/vi/WcdMC3Lj4tU/sddefault.jpg)](https://youtu.be/WcdMC3Lj4tU)
-
+Setup a Multi Node Kubernetes Cluster Using Kubeadm
 
 #### What is kubeadm
 `kubeadm` is a tool to bootstrap the Kubernetes cluster, which installs all the control plane components and gets the cluster ready for you.
